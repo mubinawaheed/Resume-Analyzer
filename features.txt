@@ -1,0 +1,14 @@
+resume scoring. Show a score (e.g., Resume Strength: 82/100)
+identify missing keywords
+suggest improvements
+tailoring to job description ( bad me krengy)
+
+Let users optionally upload a JD (Job Description).
+
+    Compare resume content vs. job requirements.
+
+    Highlight missing skills, tools, experience.
+
+Highlight ATS Compatibility
+
+Downloadable AI-improved version (optional)
