@@ -3,3 +3,5 @@ streamlit
 langchain
 python-docx
 pypdf
+dotenv
+langchain_google_genai
